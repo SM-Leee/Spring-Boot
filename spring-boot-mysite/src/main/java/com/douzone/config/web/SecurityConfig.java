@@ -19,12 +19,6 @@ import com.douzone.security.TitleInterceptor;
 @Configuration
 public class SecurityConfig extends WebMvcConfigurerAdapter{
 	
-//	@Bean
-//	public SecurityController sc() {
-//		return new SecurityController();
-//	}
-	
-
 	// Argument Resolver
 	//
 	@Bean
